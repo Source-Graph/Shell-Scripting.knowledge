@@ -1,2 +1,2 @@
-# Shell.knowledge
+# Shell Scripting.knowledge
 bash, powershell, zsh, and more!
